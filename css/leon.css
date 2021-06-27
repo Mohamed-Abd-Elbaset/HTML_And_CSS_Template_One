@@ -55,9 +55,10 @@
   }
   .special-heading + p {
     margin: -30px 0 0;
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
-    color: #797979;
+    color: #ff0000;
+    font-weight: 900;
   }
   @media (max-width: 767px) {
     .special-heading {
@@ -194,7 +195,7 @@
     text-align: center;
   }
   .features .feat i {
-    color: #8ab400;
+    color: #ff8c00;
   }
   .features .feat h3 {
     font-weight: 800;
@@ -228,7 +229,7 @@
     }
   }
   .services .services-content .srv i {
-    color: var(--main-color);
+    color: #002c5f;
     flex-basis: 60px;
   }
   .services .services-content .srv .text {
