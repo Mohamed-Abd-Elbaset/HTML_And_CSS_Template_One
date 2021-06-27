@@ -382,10 +382,10 @@
     text-align: center;
   }
   .contact .info .label {
-    font-size: 35px;
+    font-size: 19px;
     font-weight: 800;
     color: #ff8c00;
-    letter-spacing: -2px;
+    letter-spacing: -0.5px;
     margin-bottom: 15px;
   }
   .contact .info .link {
